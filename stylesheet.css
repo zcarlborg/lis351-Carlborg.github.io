@@ -1,0 +1,28 @@
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color: #5A5A5A;
+	text-align: center;
+}
+body{
+	width: 1400px;
+	margin: 0 auto;
+	border: groove;
+}
+nav{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+li{
+	display: inline;
+	padding: 5px;
+}
+article{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+dl{
+	background-color: #efefef;
+}
